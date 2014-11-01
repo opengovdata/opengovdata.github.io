@@ -1,0 +1,8 @@
+title: "GW Law 6351 Reading Group: Open Government Data"
+repo: "https://github.com/opengovdata/opengovdata.github.io"
+
+markdown: kramdown
+
+collections:
+    pages:
+        output: true
