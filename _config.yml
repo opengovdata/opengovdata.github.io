@@ -1,8 +1,15 @@
 title: "GW Law 6351 Reading Group: Open Government Data"
 repo: "https://github.com/opengovdata/opengovdata.github.io"
 
+name: Open Gov Data Blog
+description: The blog for the Open Government Data seminar
+url: https://opengovdata.github.io
+
 markdown: kramdown
 
 collections:
     pages:
         output: true
+    blog:
+        output: true
+        permalink: "/blog/:path/"
