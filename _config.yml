@@ -7,6 +7,8 @@ url: https://opengovdata.github.io
 
 markdown: kramdown
 
+data_source: data
+
 collections:
     pages:
         output: true
