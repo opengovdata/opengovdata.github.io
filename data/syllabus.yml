@@ -89,7 +89,8 @@ sessions:
     topic: Privacy and “Big” Open Data
     description: 'On of the most commonly cited concerns about open government data is personal privacy and the “mosaic” effect of big data. What are the social implications with dissemination of government data? How should governments address privacy when thinking about open government data?'
     guest_lecturer:
-      name: TBD
+      name: Emily Shaw
+      twitter: emilydshaw
     materials:
       - name: "Paul Ohm, Broken Promises of Privacy: Responding to the Surprising Failure of Anonymization, 57 UCLA L. Rev. 1701 (2010)"
         url:
