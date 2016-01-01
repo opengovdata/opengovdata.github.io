@@ -1,5 +1,5 @@
 law_school: "The George Washington University Law School"
-semester: "Spring 2005"
+semester: "Spring 2016"
 course_title: "Reading Group (Open Government Data)"
 course_number: "6351"
 description: "Federal, state, and local governments have increasingly adopted open-data policies (e.g., OMB Memorandum M-10-06), created new open-data portals (e.g., data.gov), and established new open-data offices (Chief Data Officers, Chief Innovation Officers, etc.), all with an eye toward promoting open-government data. This reading group will explore several key legal and technological issues related to open government data, discuss the implications of open data for personal privacy and on civic society, and examine the effect that open data may have on the practice of law."
@@ -9,42 +9,42 @@ front_matter:
   - meta: "Pre-Requisites"
     content: "There are no pre-requisites for this course."
   - meta: "Written Requirement"
-    content: "In keeping with the norm in the open-data “space,” all participants must write reaction essays in the form of a “blog post” based on the reading assignments or class discussion. Class participants are also encouraged to engage in iterative drafting and comment on other participants' posts. The blog posts will be hosted on GitHub <https://github.com> so participants should sign up for a user account.\nWith the exception of the first post, the posts should be based on the reading materials for the upcoming class. So, for example, the post for session #4 will be based on the reading materials on “Privacy and 'Big' Open Data” and will be due by midnight two days class (see “Deadlines and Late Work”). The first post will be due by midnight two days before the second session.\nEach post should be roughly 500-1,000 words. And even though iterative drafting and commenting is highly encouraged, the post will be evaluated based on the last version before the deadline."
+    content: |
+      In keeping with the norm in the open-data "space," all participants must write reaction essays in the form of a "blog post" based on the reading assignments or class discussion. Class participants are also encouraged to engage in iterative drafting and comment on other participants' posts. The blog posts will be hosted on GitHub <https://github.com> so participants should sign up for a user account.\nWith the exception of the first post, the posts should be based on the reading materials for the upcoming class. So, for example, the post for session #4 will be based on the reading materials on "Privacy and 'Big' Open Data" and will be due by midnight two days class (see "Deadlines and Late Work"). The first post will be due by midnight two days before the second session.\nEach post should be roughly 500-1,000 words. And even though iterative drafting and commenting is highly encouraged, the post will be evaluated based on the last version before the deadline.
   - meta: "Deadlines and Late Work"
     content: "All essays must be turned in by midnight two days before class. An essay that is late will have 4 points deducted for each day. For example, if class is held on Wednesday, the reaction essay for that class will be due at midnight on Monday."
   - meta: "Grading Rubric"
     content: "The course will be graded out of 100 points. Each of 6 essays will receive a maximum of 10 points, based on the technical and substantive quality of writing. The remaining 40 points will be based on participation in class and through peer review of others' essays. In order to pass the course, you will need 65 points. This course is graded on a CR/NC basis."
   - meta: "Class Attendance"
-    content: "As reflected in the GW Law School Bulletin, “[r]egular class attendance is required and is necessary for successful work. A student who is deficient in class attendance or participation will, after the instructor or [D]ean of [S]tudents attempts to communicate with the student, have a grade of No Credit (NC) entered on the record absent an excuse. (Here, as elsewhere in the Bulletin, email correspondence to a student’s official Law School email address is one fully acceptable means for student notification.) No excuse for deficient attendance or participation will be granted except by the dean of students and then only upon proof of unexpected serious illness, injury, or other emergency. A student whose excuse is accepted by the dean of students will be withdrawn administratively from the course.” (GW Law School Bulletin, p. 19 & 39)."
+    content: |
+      As reflected in the GW Law School Bulletin, "[r]egular class attendance is required and is necessary for successful work. A student who is deficient in class attendance or participation will, after the instructor or [D]ean of [S]tudents attempts to communicate with the student, have a grade of No Credit (NC) entered on the record absent an excuse. (Here, as elsewhere in the Bulletin, email correspondence to a student's official Law School email address is one fully acceptable means for student notification.) No excuse for deficient attendance or participation will be granted except by the dean of students and then only upon proof of unexpected serious illness, injury, or other emergency. A student whose excuse is accepted by the dean of students will be withdrawn administratively from the course." (GW Law School Bulletin, p. 19 & 39).
   - meta: "Disability Support Services"
     content: "Any student who may need an accommodation based on the potential impact of a disability should contact the Office of Disability Support Services (DSS) at:  202-994-8250 in the Rome Hall, Suite 102, to establish eligibility and the Dean of Students Office at 202-994-8320 to coordinate reasonable accommodations.  For additional information please refer to: http://gwired.gwu.edu/dss/.  Remember, Law School examination protocol calls for anonymous grading and disclosure of disability to a professor has the potential to breach exam anonymity.  Students may contact the Dean of Students Office regarding registering with the Office of DSS or eligibility to receive accommodations (e.g., notetaking assistance, adaptive technologies, etc.)."
   - meta: "Academic Integrity Policy"
-    content: "Students must strictly adhere to the GW Law School’s Academic Integrity Code (see GW Law School Bulletin) and publication Citing Responsibly, and the University’s Code of Student Conduct."
+    content: "Students must strictly adhere to the GW Law School's Academic Integrity Code (see GW Law School Bulletin) and publication Citing Responsibly, and the University's Code of Student Conduct."
   - meta: "Recording of Classes"
-    content: "This course will follow the Law School’s “Class Recording Policy,” available at the Dean of Students Office Website.  Essentially, students may request class recordings when they will be absent for religious reasons, family emergencies, and other authorized absences.  Requests for recording and questions about the policy should be directed to the Dean of Students Office."
-
-
+    content: |
+    This course will follow the Law School's "Class Recording Policy," available at the Dean of Students Office Website.  Essentially, students may request class recordings when they will be absent for religious reasons, family emergencies, and other authorized absences.  Requests for recording and questions about the policy should be directed to the Dean of Students Office.
 sessions:
   - session: "1"
+    date: 2016-01-13
     topic: Introduction to Open Government Data
     description: "What is open government data? What makes open government data different from preexisting transparency-related efforts, such as the Freedom of Information Act? How is open government data used? What role do governments play—and what role should they play—in collecting, disseminating, and using open government data?"
     guest_lecturer:
-      name: Harlan Yu
-      website: http://www.robinsonyu.com/
-      twitter: https://twitter.com/harlanyu
-      github: harlanyu
+      name: TBD
     materials:
-      - name: "Chapters 4 & 5, Josh Tauberer, Open Government Data (2nd Ed. 2014) (“Tauberer”)"
-        url: http://opengovdata.io
-      - name: "Harlan Yu & David G. Robinson, The New Ambiguity of “Open Government”, 59 UCLA L. Rev. Disc. 178 (2012)"
-        url: http://www.uclalawreview.org/?p=3663
+      - name: "A Brief Legal History of Open Government Data, Josh Tauberer, Open Government Data (2nd Ed. 2014) (Tauberer)"
+        url: https://opengovdata.io/2014/legal-history/
+      - name: "Harlan Yu & David G. Robinson, The New Ambiguity of "Open Government", 59 UCLA L. Rev. Disc. 178 (2012)"
+        url: http://www.uclalawreview.org/the-new-ambiguity-of-%E2%80%9Copen-government%E2%80%9D/
       - name: "Jeremy Weinstein & Joshua Goldstein, Opening Up Government in Developing Countries, 60 UCLA L. Rev. Disc. 38 (2012)"
-        url: http://www.uclalawreview.org/?p=4017
+        url: http://www.uclalawreview.org/the-benefits-of-a-big-tent-opening-up-government-in-developing-countries/
 
   - session: "2"
+    date: 2016-01-27
     topic: Understanding the tools of Open Government Data
     description: "This session will address many of the important tools used related to the use of open government data, including: APIs and datasets, web scrapers, regular expressions, natural language processing, and version control (git/dat)."
-    guest_lecturer: 
+    guest_lecturer:
       name: Eric Mill
       website: https://konklone.com
       twitter: konklone
@@ -52,19 +52,21 @@ sessions:
     materials:
       - name: "V. David Zvenyach, Coding for Lawyers"
         url: http://codingforlawyers.com
-      - name: "Chapters 1 & 2, Scott Chacon, Pro Git"
-        url: http://git-scm.com/doc
+      - name: "Introduction to APIs in Government, API Resources for Federal Agencies"
+        url: https://pages.18f.gov/API-All-the-X/pages/introduction_to_APIs_in_government/
       - name: "David Robinson et al., Government Data and the Invisible Hand"
         url: http://digitalcommons.law.yale.edu/yjolt/vol11/iss1/4/
+      - name: "Eric Mill, Government APIs Aren't A Backup Plan, Sunlight Foundation (Oct. 2, 2013)"
+        url: https://sunlightfoundation.com/blog/2013/10/02/government-apis-arent-a-backup-plan/
+      - name: "Derek Willis, Freeing the Plum Book (Jan. 15, 2013)"
+        url: http://open.blogs.nytimes.com/2013/01/15/freeing-the-plum-book/?_r=0
 
   - session: "3"
+    date: 2015-02-10
     topic: "Copyright, Licensing, and Open Data Policies"
     description: "This session will discuss the key concepts behind successful open-data policies and will cover issues surrounding ownership of government data, including claims to copyright, use of terms of service, and data licenses."
-    guest_lecturer: 
-      name: Josh Tauberer
-      website: http://razor.occams.info/
-      twitter: joshdata
-      github: joshdata
+    guest_lecturer:
+      name: TBD
     materials:
       - name: "Feist Publications, Inc., v. Rural Telephone Service Co., 499 U.S. 340 (1991)"
         url: https://www.courtlistener.com/opinion/112568/feist-publications-inc-v-rural-telephone-service-c/
@@ -72,25 +74,21 @@ sessions:
         url: https://www.courtlistener.com/opinion/209693/jacobsen-v-katzer/
       - name: "Victor Li, Who owns the law? Technology reignites the war over just how public documents should be, ABA Journal (June 1, 2014)"
         url: http://www.abajournal.com/magazine/article/who_owns_the_law_technology_reignites_the_war_over_just_how_public_document
-      - name: "Chapter 6 of Tauberer"
-        url: http://opengovdata.io
-      - name: "M-10-06, The Open Government Directive (“the Directive”) (Dec. 8, 2009)"
+      - name: "14 Principles of Open Government Data, Tauberer"
+        url: https://opengovdata.io/2014/principles/
+      - name: "M-10-06, The Open Government Directive ("the Directive") (Dec. 8, 2009)"
         url: http://www.whitehouse.gov/open/documents/open-government-directive
-      - name: "M-13-13, Memorandum on Open Data Policy—Managing Information as an Asset (“the Open Data Memorandum” (May 9, 2013)"
+      - name: "M-13-13, Memorandum on Open Data Policy—Managing Information as an Asset ("the Open Data Memorandum" (May 9, 2013)"
         url: http://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf
       - name: "The DATA Act"
         url: https://www.congress.gov/113/plaws/publ101/PLAW-113publ101.pdf
-      - name: "Open Government Data, Best-Practices Language for Making Data “License-Free”"
-        url: http://theunitedstates.io/licensing/
-      - name: "Sunlight Foundation, Guidelines for Open Data Policies (Mar. 2014)"
-        url: http://sunlightfoundation.com/opendataguidelines
 
   - session: "4"
-    topic: Privacy and “Big” Open Data
-    description: 'On of the most commonly cited concerns about open government data is personal privacy and the “mosaic” effect of big data. What are the social implications with dissemination of government data? How should governments address privacy when thinking about open government data?'
+    date: 2015-02-24
+    topic: Privacy, Law Enforcement, and "Big" Open Data
+    description: 'One of the most commonly cited concerns about open government data is personal privacy and the "mosaic" effect of big data. What are the social implications with collection and dissemination of government data? How should governments address privacy when thinking about open government data? How does law-enforcement's increasing reliance on surveillance technologies figure into open data?'
     guest_lecturer:
-      name: Emily Shaw
-      twitter: emilydshaw
+      name: TBD
     materials:
       - name: "Paul Ohm, Broken Promises of Privacy: Responding to the Surprising Failure of Anonymization, 57 UCLA L. Rev. 1701 (2010)"
         url:
@@ -98,33 +96,33 @@ sessions:
         url: http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2326746
       - name: "Riley v. California, 573 U.S. ___ (2014)"
         url: http://www.supremecourt.gov/opinions/13pdf/13-132_8l9c.pdf
-      - name: "N. Jean Schendel, Banking on Confidentiality: Should Consumers be Allowed Access to the National Practitioner Data Bank?, 27 J. of Health L. 289 (1994)"
-        url:
       - name: "Orin Kerr, Courts grapple with the mosaic theory of the Fourth Amendment, Wash. Post (Apr. 28, 2014)"
         url: http://www.washingtonpost.com/news/volokh-conspiracy/wp/2014/04/28/courts-grapple-with-the-mosaic-theory-of-the-fourth-amendment/
-      - name: "Cyrus Farivar, Podcast, Episode 32 of Life of the Law (“Privacy Issues”) (Apr. 22, 2014)"
+      - name: "Cyrus Farivar, Podcast, Episode 32 of Life of the Law ("Privacy Issues") (Apr. 22, 2014)"
         url: http://www.lifeofthelaw.org/privacy-issues/
+      - name: Ava Kofman, We Don't Even Know How Best to Use Body Cameras—Let Alone Regulate Them, The Nation (Sept. 23, 2015)
+        url: http://www.thenation.com/article/we-dont-even-know-how-best-to-use-body-cameras-let-alone-regulate-them/
+      - name: Ellen Nakashima, Secrecy around police surveillance equipment proves a case's undoing, Wash. Post (Feb. 22, 2015)
+        url: https://www.washingtonpost.com/world/national-security/secrecy-around-police-surveillance-equipment-proves-a-cases-undoing/2015/02/22/ce72308a-b7ac-11e4-aa05-1ce812b3fdd2_story.html
+      - name: Jeremy Gillula & Dave Maass, What You Can Learn from Oakland's Raw ALPR Data, Electronic Frontier Foundation (Jan. 21, 2015)
+        url: https://www.eff.org/deeplinks/2015/01/what-we-learned-oakland-raw-alpr-data
 
   - session: "5"
-    topic: Data Integrity and Preservation; Digital Inclusion
-    description: "Another challenge that is central to discusisons about open government data relate to the integrity and permanence of government data. How should governments validate the authenticity of data? What obligations do governments have to maintain, secure, and preserve data? And how should a digital divide inform open government data-related decisions?"
-    guest_lecturer: 
-      name: Emily Feltren
+    date: 2015-03-16
+    topic: Legal Data; Data Integrity and Preservation
+    description: "Another challenge that is central to discussions about open government data relate to the integrity and permanence of government data. How should governments validate the authenticity of data? What obligations do governments have to maintain, secure, and preserve data? And how should a digital divide inform open government data-related decisions?"
+    guest_lecturer:
+      name: TBD
     materials:
-      - name: "Uniform Electronic Legal Material Act"
-        url: 
-      - name: "A. Michael Froomkin, Government Data Breaches, 24 Berkeley Tech. L.J. 1019 (2009)."
-        url: http://scholarship.law.berkeley.edu/btlj/vol24/iss3/3
-      - name: "Executive Office of the President, Big Data: Seizing Opportunities, Preserving Values (May 2014)"
-        url: http://www.whitehouse.gov/sites/default/files/docs/big_data_privacy_report_5.1.14_final_print.pdf
-      - name: "Nithya V Raman, Collecting Data in Chennai City and the Limits of Openness, The Journal of Community Informatics (2012)"
-        url: http://ci-journal.net/index.php/ciej/article/view/877/908
       - name: "Hollee Schwartz Temple, Are digitization and budget cuts compromising history?, ABA Journal (May 1, 2013)"
         url: http://www.abajournal.com/magazine/article/are_digitization_and_budget_cuts_compromising_history
       - name: "Adam Liptak, In Supreme Court Opinions, Web Links to Nowhere, N.Y. Times, at A13 (September 24, 2013)"
         url: http://www.nytimes.com/2013/09/24/us/politics/in-supreme-court-opinions-clicks-that-lead-nowhere.html
+      - name: Greg Munno, PACER Upgrade Leaves Electronic Warehouse of Court Records Incomplete, The FOIA Project (Sept. 5th, 2014)
+        url: http://foiaproject.org/2014/09/05/pacer-upgrade-leaves-electronic-warehouse-of-court-records-incomplete/
 
   - session: "6"
+    date: 2015-03-30
     topic: "Efficacy of Open Government Data"
     description: "This session will explore whether open government data policies are living up to their promise and ask what should be expected from an open government data policy? What are the successes and failures for open government data? How are cities and states using open government data? What's likely to come next for open government data?"
     guest_lecturer:
@@ -142,5 +140,10 @@ sessions:
         url: http://www.nytimes.com/2013/03/17/opinion/sunday/morozov-open-and-closed.html
 
   - session: "7"
+    date: 2015-04-06
     topic: Recap and Conclusion
+    description: "This session will close the conversation "
+    materials:
+      - name: "Waldo Jaquith, Here's Our Open Data Future, U.S. Open Data (Dec. 11, 2015)"
+        url: https://usopendata.org/2015/12/11/future/
     description: This session will be a recap and final discussion of the issues discussed in the seminar.
