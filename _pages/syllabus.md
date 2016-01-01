@@ -6,13 +6,16 @@ layout: base
 
 {% assign d = site.data.syllabus %}
 
-# {{ page.title }} -- {{d.law_school}} {{d.course_number}}: {{d.course_title}}.
+# {{ page.title }} -- {{d.course_number}}: {{d.course_title}}.
 
+{{d.law_school}} ({{d.semester}})
+
+## Description
 {{ d.description}}
 
 {% for fm in d.front_matter %}
 
-*{{fm.meta}}*. {{fm.content}}
+**{{fm.meta}}**. {{fm.content}}
 
 {% endfor %}
 

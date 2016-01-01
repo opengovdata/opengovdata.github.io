@@ -10,7 +10,11 @@ front_matter:
     content: "There are no pre-requisites for this course."
   - meta: "Written Requirement"
     content: |
-      In keeping with the norm in the open-data "space," all participants must write reaction essays in the form of a "blog post" based on the reading assignments or class discussion. Class participants are also encouraged to engage in iterative drafting and comment on other participants' posts. The blog posts will be hosted on GitHub <https://github.com> so participants should sign up for a user account.\nWith the exception of the first post, the posts should be based on the reading materials for the upcoming class. So, for example, the post for session #4 will be based on the reading materials on "Privacy and 'Big' Open Data" and will be due by midnight two days class (see "Deadlines and Late Work"). The first post will be due by midnight two days before the second session.\nEach post should be roughly 500-1,000 words. And even though iterative drafting and commenting is highly encouraged, the post will be evaluated based on the last version before the deadline.
+      In keeping with the norm in the open-data "space," all participants must write reaction essays in the form of a "blog post" based on the reading assignments or class discussion. Class participants are also encouraged to engage in iterative drafting and comment on other participants' posts. The blog posts will be hosted on the Class Slack (Details will be provided at the first class).
+
+      With the exception of the first post, the posts should be based on the reading materials for the upcoming class. So, for example, the post for session #4 will be based on the reading materials on "Privacy and 'Big' Open Data" and will be due by midnight two days class (see "Deadlines and Late Work"). The first post will be due by midnight two days before the second session.
+
+      Each post should be roughly 500-1,000 words. And even though iterative drafting and commenting is highly encouraged, the post will be evaluated based on the last version before the deadline.
   - meta: "Deadlines and Late Work"
     content: "All essays must be turned in by midnight two days before class. An essay that is late will have 4 points deducted for each day. For example, if class is held on Wednesday, the reaction essay for that class will be due at midnight on Monday."
   - meta: "Grading Rubric"
@@ -24,7 +28,7 @@ front_matter:
     content: "Students must strictly adhere to the GW Law School's Academic Integrity Code (see GW Law School Bulletin) and publication Citing Responsibly, and the University's Code of Student Conduct."
   - meta: "Recording of Classes"
     content: |
-    This course will follow the Law School's "Class Recording Policy," available at the Dean of Students Office Website.  Essentially, students may request class recordings when they will be absent for religious reasons, family emergencies, and other authorized absences.  Requests for recording and questions about the policy should be directed to the Dean of Students Office.
+      This course will follow the Law School's "Class Recording Policy," available at the Dean of Students Office Website.  Essentially, students may request class recordings when they will be absent for religious reasons, family emergencies, and other authorized absences.  Requests for recording and questions about the policy should be directed to the Dean of Students Office.
 sessions:
   - session: "1"
     date: 2016-01-13
@@ -35,7 +39,7 @@ sessions:
     materials:
       - name: "A Brief Legal History of Open Government Data, Josh Tauberer, Open Government Data (2nd Ed. 2014) (Tauberer)"
         url: https://opengovdata.io/2014/legal-history/
-      - name: "Harlan Yu & David G. Robinson, The New Ambiguity of "Open Government", 59 UCLA L. Rev. Disc. 178 (2012)"
+      - name: Harlan Yu & David G. Robinson, The New Ambiguity of "Open Government", 59 UCLA L. Rev. Disc. 178 (2012)
         url: http://www.uclalawreview.org/the-new-ambiguity-of-%E2%80%9Copen-government%E2%80%9D/
       - name: "Jeremy Weinstein & Joshua Goldstein, Opening Up Government in Developing Countries, 60 UCLA L. Rev. Disc. 38 (2012)"
         url: http://www.uclalawreview.org/the-benefits-of-a-big-tent-opening-up-government-in-developing-countries/
@@ -76,9 +80,9 @@ sessions:
         url: http://www.abajournal.com/magazine/article/who_owns_the_law_technology_reignites_the_war_over_just_how_public_document
       - name: "14 Principles of Open Government Data, Tauberer"
         url: https://opengovdata.io/2014/principles/
-      - name: "M-10-06, The Open Government Directive ("the Directive") (Dec. 8, 2009)"
+      - name: 'M-10-06, The Open Government Directive ("the Directive") (Dec. 8, 2009)'
         url: http://www.whitehouse.gov/open/documents/open-government-directive
-      - name: "M-13-13, Memorandum on Open Data Policy—Managing Information as an Asset ("the Open Data Memorandum" (May 9, 2013)"
+      - name: 'M-13-13, Memorandum on Open Data Policy—Managing Information as an Asset ("the Open Data Memorandum" (May 9, 2013)'
         url: http://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf
       - name: "The DATA Act"
         url: https://www.congress.gov/113/plaws/publ101/PLAW-113publ101.pdf
@@ -86,7 +90,8 @@ sessions:
   - session: "4"
     date: 2015-02-24
     topic: Privacy, Law Enforcement, and "Big" Open Data
-    description: 'One of the most commonly cited concerns about open government data is personal privacy and the "mosaic" effect of big data. What are the social implications with collection and dissemination of government data? How should governments address privacy when thinking about open government data? How does law-enforcement's increasing reliance on surveillance technologies figure into open data?'
+    description: |
+      One of the most commonly cited concerns about open government data is personal privacy and the "mosaic" effect of big data. What are the social implications with collection and dissemination of government data? How should governments address privacy when thinking about open government data? How does law-enforcement's increasing reliance on surveillance technologies figure into open data?
     guest_lecturer:
       name: TBD
     materials:
@@ -98,7 +103,7 @@ sessions:
         url: http://www.supremecourt.gov/opinions/13pdf/13-132_8l9c.pdf
       - name: "Orin Kerr, Courts grapple with the mosaic theory of the Fourth Amendment, Wash. Post (Apr. 28, 2014)"
         url: http://www.washingtonpost.com/news/volokh-conspiracy/wp/2014/04/28/courts-grapple-with-the-mosaic-theory-of-the-fourth-amendment/
-      - name: "Cyrus Farivar, Podcast, Episode 32 of Life of the Law ("Privacy Issues") (Apr. 22, 2014)"
+      - name: "Cyrus Farivar, Podcast, Episode 32 of Life of the Law (Privacy Issues) (Apr. 22, 2014)"
         url: http://www.lifeofthelaw.org/privacy-issues/
       - name: Ava Kofman, We Don't Even Know How Best to Use Body Cameras—Let Alone Regulate Them, The Nation (Sept. 23, 2015)
         url: http://www.thenation.com/article/we-dont-even-know-how-best-to-use-body-cameras-let-alone-regulate-them/
