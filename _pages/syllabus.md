@@ -21,7 +21,7 @@ layout: base
 
 {% for s in d.sessions %}
 
-## Session {{s.session}}: {{s.topic}}.
+## Session {{s.session}}: {{s.topic}} ({{s.date | date: "%b %d, %Y"}}).
 
 {{s.description}}
 
@@ -33,10 +33,13 @@ layout: base
 {{s.guest_lecturer.name}}
 {% endif %}
 
+{% if s.materials | size > 0 %}
+
 ### Reading Materials
 
-{% for m in s.materials %}
-* [{{m.name}}]({{m.url}})
+{% for m in s.materials %}* [{{m.name}}]({{m.url}})
 {% endfor %}
+
+{% endif %}
 
 {% endfor %}
