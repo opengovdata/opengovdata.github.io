@@ -103,5 +103,4 @@ sessions:
   - session: "7"
     date: 2017-04-05
     topic: Recap and Conclusion
-    description: "This session will close the conversation "
-    description: This session will be a recap and final discussion of the issues discussed in the seminar.
+    description: "This session will be a recap and final discussion of the issues discussed in the seminar."
