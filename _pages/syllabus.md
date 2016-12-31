@@ -33,7 +33,7 @@ layout: base
 {{s.guest_lecturer.name}}
 {% endif %}
 
-{% if s.materials | size > 0 %}
+{% if s.materials.size > 0 %}
 
 ### Reading Materials
 

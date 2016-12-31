@@ -104,3 +104,5 @@ sessions:
     date: 2017-04-05
     topic: Recap and Conclusion
     description: "This session will be a recap and final discussion of the issues discussed in the seminar."
+    guest_lecturer:
+      name: None
