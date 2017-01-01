@@ -40,12 +40,30 @@ sessions:
     materials:
       - name: "A Brief Legal History of Open Government Data, Josh Tauberer, Open Government Data (2nd Ed. 2014) (Tauberer)"
         url: https://opengovdata.io/2014/legal-history/
+        discussion:
+        - For each era, what are the motivations for the creation of open government data?
+        - What are the motivations in the United States for open government laws? Are they similar to those in the historical examples? Why or why not?
       - name: Harlan Yu & David G. Robinson, The New Ambiguity of "Open Government", 59 UCLA L. Rev. Disc. 178 (2012)
         url: http://www.uclalawreview.org/the-new-ambiguity-of-%E2%80%9Copen-government%E2%80%9D/
+        discussion:
+        - What does "open government data" really mean?
+        - Does Yu and Robinson's assessment of the history of open government laws align with Tauberer's?
+        - What do you make of Yu and Robinson's framework? Does it help eliminate ambiguity in what constitutes "useful" open government data?
+        - What are examples of data sets that lawyers use? Where do they fit on the spectrum?
       - name: "John Horrigan & Lee Rainie, Americans' Views on Open Government Data, Pew Research Center (Apr. 21, 2015)"
         url: http://www.pewinternet.org/2015/04/21/open-government-data/
-      - name: "David Robinson et al., Government Data and the Invisible Hand"
+        discussion:
+        - What are the different "groups" associated with open-data outlooks? Within these groups, what open-government data policies are likely to resonate? What policies are not?
+        - How well do Americans understand the relationship between open government data and their lives?
+        - What do Americans believe open government data can do for them?
+        - How do Americans perceive governments' ability to properly manage open data? How does that affect their perception of the value of open data?
+        - How do *you* feel about the questions posed to the respondents?
+      - name: "David Robinson et al., Government Data and the Invisible Hand, 11 Yale J.L. & Tech. 160 (2009)"
         url: http://digitalcommons.law.yale.edu/yjolt/vol11/iss1/4/
+        discussion:
+        - This article came out shortly before President Obama's first day in office. Eight years later, how do the authors' contentions fare? How well did they predict the data policy for the president?
+        - What policy arguments did they advance? Given Tauberer and Yu & Robinson, were these arguments likely to be persuasive?
+        - Given the incoming Trump administration, what policy and legal questions are now likely to confront the administration? What should we expect for open government data in the Trump administration?
 
   - session: "2"
     date: 2017-01-25

@@ -38,8 +38,8 @@ layout: base
 ### Reading Materials
 
 {% for m in s.materials %}* [{{m.name}}]({{m.url}})
+{% if m.discussion.size > 0 %}{% for t in m.discussion %}  * {{t}}
 {% endfor %}
+{% endif %}{% endfor %}
 
-{% endif %}
-
-{% endfor %}
+{% endif %}{% endfor %}
