@@ -112,6 +112,18 @@ sessions:
     guest_lecturer:
       name: Josh Tauberer
       website: https://razor.occams.info/
+    materials:
+    - name: Alex Howard, Senate passes historic endorsement of open government data, Sunlight Foundation (Dec. 12, 2016)
+      url: https://sunlightfoundation.com/2016/12/12/senate-passes-historic-endorsement-of-open-government-data/
+    - name: "Victor Li, Who owns the law? Technology reignites the war over just how public documents should be, ABA Journal (June 1, 2014)"
+      url: http://www.abajournal.com/magazine/article/who_owns_the_law_technology_reignites_the_war_over_just_how_public_document
+    - name: "14 Principles of Open Government Data, Tauberer"
+      url: https://opengovdata.io/2014/principles/
+    - name: 'M-13-13, Memorandum on Open Data Policy—Managing Information as an Asset ("the Open Data Memorandum" (May 9, 2013)'
+      url: http://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf
+    - name: DC Government, Draft Open Data Policy
+      url: https://drafts.dc.gov/docs/draft-open-data-policy
+
 
   - session: "4"
     date: 2017-02-22
