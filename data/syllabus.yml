@@ -75,16 +75,35 @@ sessions:
     materials:
       - name: V. David Zvenyach, Data Types, Coding for Lawyers
         url: http://codingforlawyers.com/chapters/ch3/
+        discussion:
+        - What are "data types"?
+        - As you see different data types, think about what kinds of information you can represent with this data types.
       - name: "Greg Walker, What is an API?, 18F (Apr. 22, 2016)"
         url: https://18f.gsa.gov/2016/04/22/what-is-an-api/
+        discussion:
+        - What is an API? Does Walker's metaphor help you understand why APIs are useful?
+        - Check out the link to https://api.data.gov. Are there any APIs that might be useful to you?
       - name: "Derek Willis, Freeing the Plum Book, NY Times (Jan. 15, 2013)"
         url: http://open.blogs.nytimes.com/2013/01/15/freeing-the-plum-book/?_r=0
+        discussion:
+        - Willis observes that the Plum Book is available in PDF, but that it "isn't particularly searchable." He instead says that it's "basically a long list of names." What data types might be appropriate for the Plum Book?
+        - Willis mentions "JSON data". What kind of data type does JSON look like? He also mentions YAML. What is YAML? What other things [might be represented by YAML](https://github.com/opengovdata/opengovdata.github.io/blob/master/data/syllabus.yml)?
+        - How would an API be useful for the Plum Book?
       - name: "Bonnie Berkowitz and Kevin Uhrmacher, It's not just the Cabinet: Trump's transition team may need to find about 4,100 appointees, Washington Post (Dec. 5, 2016)"
         url: https://www.washingtonpost.com/graphics/politics/trump-transition-appointments-scale/
+        discussion:
+        - How do you think the Washington Post created these visualizations? Take a [look here](https://www.washingtonpost.com/graphics/politics/trump-transition-appointments-scale/js/base.js?c=9c6c968b62fe3be210c5d67a697431248f702aa7). What does this look like? And what clues do you have about where it came from?
+        - Take a look at [the Appointee Tracker](https://www.washingtonpost.com/graphics/politics/trump-administration-appointee-tracker). How do you think that the Washington Post updates it? How *could* it be updated?
       - name: United States Government Policy and Supporting Positions (Plum Book), 2016
         url: https://www.govinfo.gov/app/details/GPO-PLUMBOOK-2016/
+        discussion:
+        - How is the Plum Book published?
       - name: Adrienne Lafrance, Robots Could Make the Supreme Court More Transparent, The Atlantic (Jan. 20, 2016)
         url: https://www.theatlantic.com/technology/archive/2016/01/one-step-closer-to-a-robot-supreme-court/424800/
+        discussion:
+        - How did Li and his collaborators go about discovering the likely author of unsigned Supreme Court opinions?
+        - Recall Willis's point about the Plum Book and PDFs. What is the mode by which the Supreme Court publishes its information? What are the drawbacks?
+        - What questions would you want answered about judicial data? Where do you think such data exist?
 
   - session: "3"
     date: 2017-02-08
