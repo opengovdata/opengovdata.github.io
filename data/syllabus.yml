@@ -113,17 +113,36 @@ sessions:
       name: Josh Tauberer
       website: https://razor.occams.info/
     materials:
-    - name: Alex Howard, Senate passes historic endorsement of open government data, Sunlight Foundation (Dec. 12, 2016)
-      url: https://sunlightfoundation.com/2016/12/12/senate-passes-historic-endorsement-of-open-government-data/
-    - name: "Victor Li, Who owns the law? Technology reignites the war over just how public documents should be, ABA Journal (June 1, 2014)"
-      url: http://www.abajournal.com/magazine/article/who_owns_the_law_technology_reignites_the_war_over_just_how_public_document
-    - name: "14 Principles of Open Government Data, Tauberer"
-      url: https://opengovdata.io/2014/principles/
-    - name: 'M-13-13, Memorandum on Open Data Policy—Managing Information as an Asset ("the Open Data Memorandum" (May 9, 2013)'
-      url: http://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf
-    - name: DC Government, Draft Open Data Policy
-      url: https://drafts.dc.gov/docs/draft-open-data-policy
+      - name: Alex Howard, Senate passes historic endorsement of open government data, Sunlight Foundation (Dec. 12, 2016)
+        url: https://sunlightfoundation.com/2016/12/12/senate-passes-historic-endorsement-of-open-government-data/
+        discussion:
+        - Recall the discussion in the first class about framing open government data policy. How does the framing of the OPEN Government Data Act square with earlier rhetoric?
+        - Why bother with legislation at all? See the [Committee Report](https://www.gpo.gov/fdsys/pkg/CRPT-114srpt396/pdf/CRPT-114srpt396.pdf). What is the Senate's position on the implementation of open government data by the Obama administration?
 
+      - name: "Victor Li, Who owns the law? Technology reignites the war over just how public documents should be, ABA Journal (June 1, 2014)"
+        url: http://www.abajournal.com/magazine/article/who_owns_the_law_technology_reignites_the_war_over_just_how_public_document
+        discussion:
+        - This article summarizes one of the more public fights over government data ownership. Why is there any debate about whether "laws" are in the public domain?
+        - What would the consequences be if standards bodies could not claim copyright on their works?
+        - How should government agencies think about authoritative sources? What are the consequences of deciding that a government work is "official?"
+
+      - name: "14 Principles of Open Government Data, Tauberer"
+        url: https://opengovdata.io/2014/principles/
+        discussion:
+        - Read through the principles. What, if anything, is missing?
+        - Which are the most important principles to you personally? Which are least important? Why?
+
+      - name: 'M-13-13, Memorandum on Open Data Policy—Managing Information as an Asset ("the Open Data Memorandum" (May 9, 2013)'
+        url: https://web.archive.org/web/https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf
+        discussion:
+        - Note the URL of this website. It was updated on January 29, 2017, because the canonical URL [returned this result](https://web.archive.org/web/20170129013754/https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf). How does that square with Tauberer's Open Data principles?
+        - What is the gist of the policy? What does it require agencies to *do*?
+
+      - name: DC Government, Draft Open Data Policy
+        url: https://drafts.dc.gov/docs/draft-open-data-policy
+        discussion:
+        - Read through the policy. How well does it meet Tauberer's principles?
+        - As discussed in the previous class, this policy was annotated using the [Madison](https://mymadison.io) platform. Does using the platform relate to the principles? If so, how?
 
   - session: "4"
     date: 2017-02-22
@@ -133,6 +152,21 @@ sessions:
     guest_lecturer:
       name: Harlan Yu
       website: https://www.harlanyu.com/
+    materials:
+      - name: "Paul Ohm, Broken Promises of Privacy: Responding to the Surprising Failure of Anonymization, 57 UCLA L. Rev. 1701 (2010)"
+        url:
+      - name: Ava Kofman, We Don't Even Know How Best to Use Body Cameras—Let Alone Regulate Them, The Nation (Sept. 23, 2015)
+        url: http://www.thenation.com/article/we-dont-even-know-how-best-to-use-body-cameras-let-alone-regulate-them/
+      - name: Damian Ortellado, Which states are passing effective legislation on police bodycams?,
+        url: https://sunlightfoundation.com/2016/08/04/which-states-are-passing-effective-legislation-on-police-bodycams/
+      - name: Elizabeth Joh, Five Lessons From the Rise of Bodycams, Slate (Nov. 28, 2016)
+        url: http://www.slate.com/articles/technology/future_tense/2016/11/how_not_to_respond_to_the_next_police_surveillance_technology.html
+      - name: Ellen Nakashima, Secrecy around police surveillance equipment proves a case's undoing, Wash. Post (Feb. 22, 2015)
+        url: https://www.washingtonpost.com/world/national-security/secrecy-around-police-surveillance-equipment-proves-a-cases-undoing/2015/02/22/ce72308a-b7ac-11e4-aa05-1ce812b3fdd2_story.html
+      - name: Jeremy Gillula & Dave Maass, What You Can Learn from Oakland's Raw ALPR Data, Electronic Frontier Foundation (Jan. 21, 2015)
+        url: https://www.eff.org/deeplinks/2015/01/what-we-learned-oakland-raw-alpr-data
+      - name: Emily Shaw, The local projects that are making police complaint data open and accessible, Sunlight Foundation (Oct. 25, 2016)
+        url: https://sunlightfoundation.com/2016/10/25/the-local-projects-that-are-making-police-complaint-data-open-and-accessible/
 
   - session: "5"
     date: 2017-03-15

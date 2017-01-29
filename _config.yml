@@ -15,3 +15,5 @@ collections:
     blog:
         output: true
         permalink: "/blog/:path/"
+
+exclude: ["scratch.md"]
