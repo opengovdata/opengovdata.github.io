@@ -174,6 +174,19 @@ sessions:
     description: "Another challenge that is central to discussions about open government data relate to the integrity and permanence of government data. How should governments validate the authenticity of data? What obligations do governments have to maintain, secure, and preserve data? And how should a digital divide inform open government data-related decisions?"
     guest_lecturer:
       name: TBD
+    materials:
+      - name: "Hollee Schwartz Temple, Are digitization and budget cuts compromising history?, ABA Journal (May 1, 2013)"
+        url: http://www.abajournal.com/magazine/article/are_digitization_and_budget_cuts_compromising_history
+      - name: "Chase Purdy, Everyday people are furiously saving US federal data before it’s deleted—and you can, too, Quartz (Feb. 15, 2017)"
+        url: https://qz.com/906941/regular-americans-are-saving-government-data-before-the-trump-administration-deletes-it-from-agency-websites/
+      - name: "Adam Liptak, In Supreme Court Opinions, Web Links to Nowhere, N.Y. Times, at A13 (September 24, 2013)"
+        url: http://www.nytimes.com/2013/09/24/us/politics/in-supreme-court-opinions-clicks-that-lead-nowhere.html
+      - name: "Anne Catherine Thurston, Trustworthy Records and Open Data, Journal of Community Informatics (2012)"
+        url: http://ci-journal.net/index.php/ciej/article/view/951/952
+      - name: "Michael J. Hannon, An Increasingly Important Requirement: Authentication of Digital Evidence, Journal of the Missouri Bar (Nov.-Dec. 2014)"
+        url: http://www.mobar.org/uploadedFiles/Home/Publications/Journal/2014/11-12/digital-evidence.pdf
+      - name: "Blair Levin & Larry Downes, A new digital divide has emerged — and conventional solutions won’t bridge the gap, Washington Post (Oct. 14, 2016)" 
+        url: https://www.washingtonpost.com/news/innovations/wp/2016/10/14/a-new-digital-divide-has-emerged-and-conventional-solutions-wont-bridge-the-gap/
 
   - session: "6"
     date: 2017-03-29
