@@ -185,7 +185,7 @@ sessions:
         url: http://ci-journal.net/index.php/ciej/article/view/951/952
       - name: "Michael J. Hannon, An Increasingly Important Requirement: Authentication of Digital Evidence, Journal of the Missouri Bar (Nov.-Dec. 2014)"
         url: http://www.mobar.org/uploadedFiles/Home/Publications/Journal/2014/11-12/digital-evidence.pdf
-      - name: "Blair Levin & Larry Downes, A new digital divide has emerged — and conventional solutions won’t bridge the gap, Washington Post (Oct. 14, 2016)" 
+      - name: "Blair Levin & Larry Downes, A new digital divide has emerged — and conventional solutions won’t bridge the gap, Washington Post (Oct. 14, 2016)"
         url: https://www.washingtonpost.com/news/innovations/wp/2016/10/14/a-new-digital-divide-has-emerged-and-conventional-solutions-wont-bridge-the-gap/
 
   - session: "6"
@@ -195,6 +195,19 @@ sessions:
     guest_lecturer:
       name: Rebecca Williams
       website: https://rebeccawilliams.us/
+    materials:
+      - name: "Vanessa Williamson and Norman Eisen, The impact of open government: Assessing the evidence, Center for Effective Public Management (Dec. 2016)"
+        url: https://www.brookings.edu/wp-content/uploads/2016/12/gs_20161208_opengovernment_report.pdf
+      - name: "Rebecca Williams, Boston: the tale of two open data policies, Sunlight Foundation Blog (Apr. 11, 2014)"
+        url: http://sunlightfoundation.com/blog/2014/04/11/boston-the-tale-of-two-open-data-policies/
+      - name: "Natalie Helbig et al., The Dynamics of Opening Government Data (Dec. 2012)"
+        url: http://dev5.ctg.albany.edu/publications/reports/opendata/opendata.pdf
+      - name: "Adriana S. Cordis & Patrick L. Warren, Sunshine as Disinfectant: The Effect of State Freedom of Information Act Laws on Public Corruption (updated Mar. 2014)"
+        url: http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1922859
+      - name: "Tom Lee, Open Data: Better Politics, Winning Politics… But Still Politics, Crooked Timber (July 6, 2012)"
+        url: http://crookedtimber.org/2012/07/06/open-data-better-politics-winning-politics-but-still-politics/
+      - name: "Nick Hadjigeorge, Open Data: Measuring What Matters, GovEx (Feb. 23, 2016)"
+        url: https://govex.jhu.edu/open-data-measuring-what-matters/
 
   - session: "7"
     date: 2017-04-05
