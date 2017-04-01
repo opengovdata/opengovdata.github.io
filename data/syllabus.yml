@@ -216,7 +216,7 @@ sessions:
     guest_lecturer:
       name: None
     materials:
-      - name: "Waldo Jaquith, Here's our open government data future, US Open Data (Dec. 11, 2015)
+      - name: "Waldo Jaquith, Here's our open government data future, US Open Data (Dec. 11, 2015)"
         url: "https://usopendata.org/2015/12/11/future/"
-      - name: "Julia Angwin, Making Algorithms Accountable, Medium (Nov. 3, 2016)
+      - name: "Julia Angwin, Making Algorithms Accountable, Medium (Nov. 3, 2016)"
         url: https://medium.com/positive-returns/making-algorithms-accountable-9e048f8a6c8b
