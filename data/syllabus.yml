@@ -1,9 +1,12 @@
 law_school: "The George Washington University Law School"
-semester: "Spring 2017"
+semester: "Spring 2018"
 course_title: "Reading Group (Open Government Data)"
 course_number: "6351"
 description: "Federal, state, and local governments have increasingly adopted open-data policies (e.g., OMB Memorandum M-10-06), created new open-data portals (e.g., data.gov), and established new open-data offices (Chief Data Officers, Chief Innovation Officers, etc.), all with an eye toward promoting open-government data. This reading group will explore several key legal and technological issues related to open government data, discuss the implications of open data for personal privacy and on civic society, and examine the effect that open data may have on the practice of law."
 front_matter:
+  - meta: "Statement of Learning Outcomes"
+    content: |
+      [TODO]
   - meta: Contact Information
     content: "V. David Zvenyach, [dave@esq.io](mailto:dave@esq.io), (202) 596-1770"
   - meta: "Pre-Requisites"
@@ -32,7 +35,7 @@ front_matter:
 
 sessions:
   - session: "1"
-    date: 2017-01-11
+    date: 2018-01-17
     topic: Introduction to Open Government Data
     description: "What is open government data? What makes open government data different from preexisting transparency-related efforts, such as the Freedom of Information Act? How is open government data used? What role do governments play—and what role should they play—in collecting, disseminating, and using open government data?"
     guest_lecturer:
@@ -66,7 +69,7 @@ sessions:
         - Given the incoming Trump administration, what policy and legal questions are now likely to confront the administration? What should we expect for open government data in the Trump administration?
 
   - session: "2"
-    date: 2017-01-25
+    date: 2018-01-31
     topic: Understanding the tools of Open Government Data
     description: "This session will address many of the important tools used related to the use of open government data, including: APIs and datasets, web scrapers, regular expressions, natural language processing, and version control (git/dat)."
     guest_lecturer:
@@ -106,7 +109,7 @@ sessions:
         - What questions would you want answered about judicial data? Where do you think such data exist?
 
   - session: "3"
-    date: 2017-02-08
+    date: 2018-02-14
     topic: "Copyright, Licensing, and Open Data Policies"
     description: "This session will discuss the key concepts behind successful open-data policies and will cover issues surrounding ownership of government data, including claims to copyright, use of terms of service, and data licenses."
     guest_lecturer:
@@ -145,7 +148,7 @@ sessions:
         - As discussed in the previous class, this policy was annotated using the [Madison](https://mymadison.io) platform. Does using the platform relate to the principles? If so, how?
 
   - session: "4"
-    date: 2017-02-22
+    date: 2018-02-28
     topic: Privacy, Law Enforcement, and "Big" Open Data
     description: |
       One of the most commonly cited concerns about open government data is personal privacy and the "mosaic" effect of big data. What are the social implications with collection and dissemination of government data? How should governments address privacy when thinking about open government data? How does law-enforcement's increasing reliance on surveillance technologies figure into open data?
@@ -169,7 +172,7 @@ sessions:
         url: https://sunlightfoundation.com/2016/10/25/the-local-projects-that-are-making-police-complaint-data-open-and-accessible/
 
   - session: "5"
-    date: 2017-03-15
+    date: 2018-03-14
     topic: Legal Data; Data Integrity and Preservation
     description: "Another challenge that is central to discussions about open government data relate to the integrity and permanence of government data. How should governments validate the authenticity of data? What obligations do governments have to maintain, secure, and preserve data? And how should a digital divide inform open government data-related decisions?"
     guest_lecturer:
@@ -189,7 +192,7 @@ sessions:
         url: https://www.washingtonpost.com/news/innovations/wp/2016/10/14/a-new-digital-divide-has-emerged-and-conventional-solutions-wont-bridge-the-gap/
 
   - session: "6"
-    date: 2017-03-29
+    date: 2018-03-28
     topic: "Efficacy of Open Government Data"
     description: "This session will explore whether open government data policies are living up to their promise and ask what should be expected from an open government data policy? What are the successes and failures for open government data? How are cities and states using open government data? What's likely to come next for open government data?"
     guest_lecturer:
@@ -208,15 +211,3 @@ sessions:
         url: http://crookedtimber.org/2012/07/06/open-data-better-politics-winning-politics-but-still-politics/
       - name: "Nick Hadjigeorge, Open Data: Measuring What Matters, GovEx (Feb. 23, 2016)"
         url: https://govex.jhu.edu/open-data-measuring-what-matters/
-
-  - session: "7"
-    date: 2017-04-05
-    topic: Recap and Conclusion
-    description: "This session will be a recap and final discussion of the issues discussed in the seminar."
-    guest_lecturer:
-      name: None
-    materials:
-      - name: "Waldo Jaquith, Here's our open government data future, US Open Data (Dec. 11, 2015)"
-        url: "https://usopendata.org/2015/12/11/future/"
-      - name: "Julia Angwin, Making Algorithms Accountable, Medium (Nov. 3, 2016)"
-        url: https://medium.com/positive-returns/making-algorithms-accountable-9e048f8a6c8b
