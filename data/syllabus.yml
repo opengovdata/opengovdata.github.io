@@ -86,6 +86,12 @@ sessions:
         discussion:
         - The author mentions the use of APIs as a means of managing the burden of "[t]reating data as a national resource and strategic asset." What examples does he provide as use cases for managing the data.
         - Consider the "Invisible Hand" article from Session 1. Is the author's argument for using Open Data and APIs the same as Robinson's argument? If not, why not?
+      - name: Livermore et al., Computationally Assisted Regulatory Participation (May 2017)
+        url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2970222#
+        discussion:
+        - What is natural language processing (NLP)?
+        - How did the authors use NLP? What were the prerequisites for this analysis?
+        - What are other potential uses for NLP in law and open government data?
       - name: "Derek Willis, Freeing the Plum Book, NY Times (Jan. 15, 2013)"
         url: http://open.blogs.nytimes.com/2013/01/15/freeing-the-plum-book/?_r=0
         discussion:
@@ -110,6 +116,7 @@ sessions:
         - What questions would you want answered about judicial data? Where do you think such data exist?
       - name: (OPTIONAL) Eric Mill, An Introduction to Open Data (Apr. 6, 2016)
         url: https://www.youtube.com/watch?v=taTdJ6oOZX4
+
   - session: "3"
     date: 2018-02-14
     topic: The DATA Act
