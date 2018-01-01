@@ -6,7 +6,7 @@ description: "Federal, state, and local governments have increasingly adopted op
 front_matter:
   - meta: "Statement of Learning Outcomes"
     content: |
-      [TODO]
+      A student who completes this course should be familiar with major laws and policies surrounding open data in the United States. Additionally, the student should understand the major political and practical challenges that shape open-data policy today and in the years to come.
   - meta: Contact Information
     content: "V. David Zvenyach, [dave@esq.io](mailto:dave@esq.io), (202) 596-1770"
   - meta: "Pre-Requisites"
@@ -39,7 +39,8 @@ sessions:
     topic: Introduction to Open Government Data
     description: "What is open government data? What makes open government data different from preexisting transparency-related efforts, such as the Freedom of Information Act? How is open government data used? What role do governments play—and what role should they play—in collecting, disseminating, and using open government data?"
     guest_lecturer:
-      name: TBD
+      name: Daniel Schuman
+      website: https://medium.com/@danielschuman
     materials:
       - name: "A Brief Legal History of Open Government Data, Josh Tauberer, Open Government Data (2nd Ed. 2014) (Tauberer)"
         url: https://opengovdata.io/2014/legal-history/
@@ -76,16 +77,16 @@ sessions:
       name: Bill Hunt
       website: https://krues8dr.com
     materials:
-      - name: V. David Zvenyach, Data Types, Coding for Lawyers
-        url: http://codingforlawyers.com/chapters/ch3/
-        discussion:
-        - What are "data types"?
-        - As you see different data types, think about what kinds of information you can represent with this data types.
       - name: "Greg Walker, What is an API?, 18F (Apr. 22, 2016)"
         url: https://18f.gsa.gov/2016/04/22/what-is-an-api/
         discussion:
         - What is an API? Does Walker's metaphor help you understand why APIs are useful?
         - Check out the link to https://api.data.gov. Are there any APIs that might be useful to you?
+      - name: "John Paul, An Introduction to Open Data and APIs (May 3, 2016)"
+        url: https://www.digitalgov.gov/2016/05/03/an-introduction-to-open-data-and-apis/
+        discussion:
+        - The author mentions the use of APIs as a means of managing the burden of "[t]reating data as a national resource and strategic asset." What examples does he provide as use cases for managing the data.
+        - Consider the "Invisible Hand" article from Session 1. Is the author's argument for using Open Data and APIs the same as Robinson's argument? If not, why not?
       - name: "Derek Willis, Freeing the Plum Book, NY Times (Jan. 15, 2013)"
         url: http://open.blogs.nytimes.com/2013/01/15/freeing-the-plum-book/?_r=0
         discussion:
@@ -100,114 +101,47 @@ sessions:
       - name: United States Government Policy and Supporting Positions (Plum Book), 2016
         url: https://www.govinfo.gov/app/details/GPO-PLUMBOOK-2016/
         discussion:
-        - How is the Plum Book published?
+        - What data formats are available for accessing the Plum Book (psst.... take a look at the 'document in context')?
+        - How would different users use different formts?
       - name: Adrienne Lafrance, Robots Could Make the Supreme Court More Transparent, The Atlantic (Jan. 20, 2016)
         url: https://www.theatlantic.com/technology/archive/2016/01/one-step-closer-to-a-robot-supreme-court/424800/
         discussion:
         - How did Li and his collaborators go about discovering the likely author of unsigned Supreme Court opinions?
         - Recall Willis's point about the Plum Book and PDFs. What is the mode by which the Supreme Court publishes its information? What are the drawbacks?
         - What questions would you want answered about judicial data? Where do you think such data exist?
-
+      - name: (OPTIONAL) Eric Mill, An Introduction to Open Data (Apr. 6, 2016)
+        url: https://www.youtube.com/watch?v=taTdJ6oOZX4
   - session: "3"
     date: 2018-02-14
+    topic: The DATA Act
+    description: "In 2014, Congress enacted the DATA Act, which mandated the establishment of government-wide data standards for financial data and required publication of 'consistent, reliable, and searchable government-wide spending data that is displayed accurately for tax-payers and policy makers.' Three years later, the DATA Act is now the law of the land and has been implemented by the federal government. This session will explore how the DATA Act came to exist and what implementation of major open-data legislation looks like."
+    guest_lecturer:
+      name: TBD
+
+  - session: "4"
+    date: 2018-02-28
     topic: "Copyright, Licensing, and Open Data Policies"
     description: "This session will discuss the key concepts behind successful open-data policies and will cover issues surrounding ownership of government data, including claims to copyright, use of terms of service, and data licenses."
     guest_lecturer:
       name: Josh Tauberer
       website: https://razor.occams.info/
     materials:
-      - name: Alex Howard, Senate passes historic endorsement of open government data, Sunlight Foundation (Dec. 12, 2016)
-        url: https://sunlightfoundation.com/2016/12/12/senate-passes-historic-endorsement-of-open-government-data/
-        discussion:
-        - Recall the discussion in the first class about framing open government data policy. How does the framing of the OPEN Government Data Act square with earlier rhetoric?
-        - Why bother with legislation at all? See the [Committee Report](https://www.gpo.gov/fdsys/pkg/CRPT-114srpt396/pdf/CRPT-114srpt396.pdf). What is the Senate's position on the implementation of open government data by the Obama administration?
 
-      - name: "Victor Li, Who owns the law? Technology reignites the war over just how public documents should be, ABA Journal (June 1, 2014)"
-        url: http://www.abajournal.com/magazine/article/who_owns_the_law_technology_reignites_the_war_over_just_how_public_document
-        discussion:
-        - This article summarizes one of the more public fights over government data ownership. Why is there any debate about whether "laws" are in the public domain?
-        - What would the consequences be if standards bodies could not claim copyright on their works?
-        - How should government agencies think about authoritative sources? What are the consequences of deciding that a government work is "official?"
-
-      - name: "14 Principles of Open Government Data, Tauberer"
-        url: https://opengovdata.io/2014/principles/
-        discussion:
-        - Read through the principles. What, if anything, is missing?
-        - Which are the most important principles to you personally? Which are least important? Why?
-
-      - name: 'M-13-13, Memorandum on Open Data Policy—Managing Information as an Asset ("the Open Data Memorandum" (May 9, 2013)'
-        url: https://web.archive.org/web/https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf
-        discussion:
-        - Note the URL of this website. It was updated on January 29, 2017, because the canonical URL [returned this result](https://web.archive.org/web/20170129013754/https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf). How does that square with Tauberer's Open Data principles?
-        - What is the gist of the policy? What does it require agencies to *do*?
-
-      - name: DC Government, Draft Open Data Policy
-        url: https://drafts.dc.gov/docs/draft-open-data-policy
-        discussion:
-        - Read through the policy. How well does it meet Tauberer's principles?
-        - As discussed in the previous class, this policy was annotated using the [Madison](https://mymadison.io) platform. Does using the platform relate to the principles? If so, how?
-
-  - session: "4"
-    date: 2018-02-28
+  - session: "5"
+    date: 2018-03-14
     topic: Privacy, Law Enforcement, and "Big" Open Data
     description: |
       One of the most commonly cited concerns about open government data is personal privacy and the "mosaic" effect of big data. What are the social implications with collection and dissemination of government data? How should governments address privacy when thinking about open government data? How does law-enforcement's increasing reliance on surveillance technologies figure into open data?
     guest_lecturer:
-      name: Harlan Yu
-      website: https://www.harlanyu.com/
-    materials:
-      - name: "Paul Ohm, Broken Promises of Privacy: Responding to the Surprising Failure of Anonymization, 57 UCLA L. Rev. 1701 (2010)"
-        url:
-      - name: Ava Kofman, We Don't Even Know How Best to Use Body Cameras—Let Alone Regulate Them, The Nation (Sept. 23, 2015)
-        url: http://www.thenation.com/article/we-dont-even-know-how-best-to-use-body-cameras-let-alone-regulate-them/
-      - name: Damian Ortellado, Which states are passing effective legislation on police bodycams?,
-        url: https://sunlightfoundation.com/2016/08/04/which-states-are-passing-effective-legislation-on-police-bodycams/
-      - name: Elizabeth Joh, Five Lessons From the Rise of Bodycams, Slate (Nov. 28, 2016)
-        url: http://www.slate.com/articles/technology/future_tense/2016/11/how_not_to_respond_to_the_next_police_surveillance_technology.html
-      - name: Ellen Nakashima, Secrecy around police surveillance equipment proves a case's undoing, Wash. Post (Feb. 22, 2015)
-        url: https://www.washingtonpost.com/world/national-security/secrecy-around-police-surveillance-equipment-proves-a-cases-undoing/2015/02/22/ce72308a-b7ac-11e4-aa05-1ce812b3fdd2_story.html
-      - name: Jeremy Gillula & Dave Maass, What You Can Learn from Oakland's Raw ALPR Data, Electronic Frontier Foundation (Jan. 21, 2015)
-        url: https://www.eff.org/deeplinks/2015/01/what-we-learned-oakland-raw-alpr-data
-      - name: Emily Shaw, The local projects that are making police complaint data open and accessible, Sunlight Foundation (Oct. 25, 2016)
-        url: https://sunlightfoundation.com/2016/10/25/the-local-projects-that-are-making-police-complaint-data-open-and-accessible/
-
-  - session: "5"
-    date: 2018-03-14
-    topic: Legal Data; Data Integrity and Preservation
-    description: "Another challenge that is central to discussions about open government data relate to the integrity and permanence of government data. How should governments validate the authenticity of data? What obligations do governments have to maintain, secure, and preserve data? And how should a digital divide inform open government data-related decisions?"
-    guest_lecturer:
       name: TBD
+      website:
     materials:
-      - name: "Hollee Schwartz Temple, Are digitization and budget cuts compromising history?, ABA Journal (May 1, 2013)"
-        url: http://www.abajournal.com/magazine/article/are_digitization_and_budget_cuts_compromising_history
-      - name: "Chase Purdy, Everyday people are furiously saving US federal data before it’s deleted—and you can, too, Quartz (Feb. 15, 2017)"
-        url: https://qz.com/906941/regular-americans-are-saving-government-data-before-the-trump-administration-deletes-it-from-agency-websites/
-      - name: "Adam Liptak, In Supreme Court Opinions, Web Links to Nowhere, N.Y. Times, at A13 (September 24, 2013)"
-        url: http://www.nytimes.com/2013/09/24/us/politics/in-supreme-court-opinions-clicks-that-lead-nowhere.html
-      - name: "Anne Catherine Thurston, Trustworthy Records and Open Data, Journal of Community Informatics (2012)"
-        url: http://ci-journal.net/index.php/ciej/article/view/951/952
-      - name: "Michael J. Hannon, An Increasingly Important Requirement: Authentication of Digital Evidence, Journal of the Missouri Bar (Nov.-Dec. 2014)"
-        url: http://www.mobar.org/uploadedFiles/Home/Publications/Journal/2014/11-12/digital-evidence.pdf
-      - name: "Blair Levin & Larry Downes, A new digital divide has emerged — and conventional solutions won’t bridge the gap, Washington Post (Oct. 14, 2016)"
-        url: https://www.washingtonpost.com/news/innovations/wp/2016/10/14/a-new-digital-divide-has-emerged-and-conventional-solutions-wont-bridge-the-gap/
 
   - session: "6"
     date: 2018-03-28
     topic: "Efficacy of Open Government Data"
     description: "This session will explore whether open government data policies are living up to their promise and ask what should be expected from an open government data policy? What are the successes and failures for open government data? How are cities and states using open government data? What's likely to come next for open government data?"
     guest_lecturer:
-      name: Rebecca Williams
-      website: https://rebeccawilliams.us/
+      name: TBD
+      website:
     materials:
-      - name: "Vanessa Williamson and Norman Eisen, The impact of open government: Assessing the evidence, Center for Effective Public Management (Dec. 2016)"
-        url: https://www.brookings.edu/wp-content/uploads/2016/12/gs_20161208_opengovernment_report.pdf
-      - name: "Rebecca Williams, Boston: the tale of two open data policies, Sunlight Foundation Blog (Apr. 11, 2014)"
-        url: http://sunlightfoundation.com/blog/2014/04/11/boston-the-tale-of-two-open-data-policies/
-      - name: "Natalie Helbig et al., The Dynamics of Opening Government Data (Dec. 2012)"
-        url: http://dev5.ctg.albany.edu/publications/reports/opendata/opendata.pdf
-      - name: "Adriana S. Cordis & Patrick L. Warren, Sunshine as Disinfectant: The Effect of State Freedom of Information Act Laws on Public Corruption (updated Mar. 2014)"
-        url: http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1922859
-      - name: "Tom Lee, Open Data: Better Politics, Winning Politics… But Still Politics, Crooked Timber (July 6, 2012)"
-        url: http://crookedtimber.org/2012/07/06/open-data-better-politics-winning-politics-but-still-politics/
-      - name: "Nick Hadjigeorge, Open Data: Measuring What Matters, GovEx (Feb. 23, 2016)"
-        url: https://govex.jhu.edu/open-data-measuring-what-matters/
