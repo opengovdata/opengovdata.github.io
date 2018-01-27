@@ -123,6 +123,17 @@ sessions:
     description: "In 2014, Congress enacted the DATA Act, which mandated the establishment of government-wide data standards for financial data and required publication of 'consistent, reliable, and searchable government-wide spending data that is displayed accurately for tax-payers and policy makers.' Three years later, the DATA Act is now the law of the land and has been implemented by the federal government. This session will explore how the DATA Act came to exist and what implementation of major open-data legislation looks like."
     guest_lecturer:
       name: TBD
+    materials:
+      - name: "Matt Rumsey, A brief history of the DATA Act, Sunlight Foundation (May 8, 2017)"
+        url: https://sunlightfoundation.com/2017/05/08/a-brief-history-of-the-data-act/
+      - name: "Andrew Prokop, Beating the odds: Why one bill made it through a gridlocked Congress — and so many don't, Vox (May 22, 2014)"
+        url: https://www.vox.com/2014/5/22/5723878/how-a-bill-becomes-a-law-in-2014
+      - name: "Becky Sweger, How DATA Act implementation is opening up federal spending, 18F (June 9, 2015)"
+        url: https://18f.gsa.gov/2015/06/09/data-act-data-act-explainer/
+      - name: "The DATA Act – Working Towards Federal Spending Transparency, GAO WatchBlog (Nov 9, 2017)"
+        url: https://blog.gao.gov/2017/11/09/the-data-act-working-towards-federal-spending-transparency/
+      - name: "DATA Act 2022: Changing Technology, Changing Culture (May 2017)"
+        url: http://www.datafoundation.org/data-act-2022
 
   - session: "4"
     date: 2018-02-28
