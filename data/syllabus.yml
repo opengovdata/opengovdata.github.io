@@ -122,18 +122,43 @@ sessions:
     topic: The DATA Act
     description: "In 2014, Congress enacted the DATA Act, which mandated the establishment of government-wide data standards for financial data and required publication of 'consistent, reliable, and searchable government-wide spending data that is displayed accurately for tax-payers and policy makers.' Three years later, the DATA Act is now the law of the land and has been implemented by the federal government. This session will explore how the DATA Act came to exist and what implementation of major open-data legislation looks like."
     guest_lecturer:
-      name: TBD
+      name: Renata Maziarz
+      website: https://18f.gsa.gov/2017/12/12/renata-maziarz-model-civil-servant/
     materials:
+      - name: "DATA Act of 2014, Report of the Senate Committee on Homeland Security and Government Oversight"
+        url: https://www.congress.gov/113/crpt/srpt139/CRPT-113srpt139.pdf
+        discussion:
+        - The report describes several of Congress's "lessons learned" from past experiences. What were some of these lessons learned?
       - name: "Matt Rumsey, A brief history of the DATA Act, Sunlight Foundation (May 8, 2017)"
         url: https://sunlightfoundation.com/2017/05/08/a-brief-history-of-the-data-act/
+        discussion:
+        - The author describes the origins of the DATA Act as beginning with the Federal Funding Accountability and Transparency Act of 2006 (FFATA). What were some of the shortcomings of FFATA? How did the DATA Act propose to overcome those limitations?
+        - Note that FFATA was sponsored by then-Senator Barack Obama, but the article claims that President Obama's Office of Management and Budget attempted to weaken the DATA Act. What could explain this?
+        - What were some of the techniques that the government used to help implement the DATA Act? Is the *process* of implementation relevant to the efficacy of Open Government Data? How?
       - name: "Andrew Prokop, Beating the odds: Why one bill made it through a gridlocked Congress — and so many don't, Vox (May 22, 2014)"
         url: https://www.vox.com/2014/5/22/5723878/how-a-bill-becomes-a-law-in-2014
+        discussion:
+        - The author describes the origins of the DATA Act as beginning with the stimulus bill -- the American Recovery and Reinvestment Act of 2009 -- and the implementation of standards by Earl Devaney. Remember, that Rumsey suggested that the origins were grounded in FFATA. What do you make of these competing origin stories? What do origin stories suggest about the *goals* of legislation? What do they suggest about the authors' interpretation of those goals?
+        - The article describes some of the interest group politics involved. What were their incentives? What was the impact of their advocacy? What about the executive branch's incentives? What was the impact of their advocacy?
+        - The author suggests that the result of the legislative process was a weakened law. What does this suggest about how how to approach open-government-data policies?
       - name: "Becky Sweger, How DATA Act implementation is opening up federal spending, 18F (June 9, 2015)"
         url: https://18f.gsa.gov/2015/06/09/data-act-data-act-explainer/
+        discussion:
+        - The article describes some of the core challenges associated with DATA Act implementation. To what extent did these challenges inform the drafting of the legislation?
+        -  What does the author propose as some major use cases for the implementation? What questions can the data answer?
       - name: "The DATA Act – Working Towards Federal Spending Transparency, GAO WatchBlog (Nov 9, 2017)"
         url: https://blog.gao.gov/2017/11/09/the-data-act-working-towards-federal-spending-transparency/
+        discussion:
+        - What did the GAO find in its report about data accuracy and completeness?
+        - What were some examples of challenges concerning consistency of presentation of data? To what extent do they parallel earlier "lessons learned?" What does that suggest?
+        - To what extent were the limitations in the accuracy and completeness of the data affected by the legislative process itself?
       - name: "DATA Act 2022: Changing Technology, Changing Culture (May 2017)"
         url: http://www.datafoundation.org/data-act-2022
+        discussion:
+        - Take a look at the document's vision for Federal Spending in 2022. What are the suggested primary benefits associated with the DATA Act? Who are the beneficiaries. To what extent is that vision consistent with the original stated intent of the DATA Act?
+        - The DATA Act took 3 years to implement from passage in 2014 to first public reporting in 2017. Total implementation is supposed to be complete in 2021. What are your predictions about what happens in 2022?
+        - What are the challenges with continued implementation of the DATA Act? What are the solutions?
+        - In the next session, we will discuss what level of responsibility the government has to provide "context" to data it publishes and to explicitly engage consumers of data. What are the authors' views on the government's responsibility to engage the public around the data?
 
   - session: "4"
     date: 2018-02-28
