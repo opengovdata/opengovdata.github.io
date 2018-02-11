@@ -168,6 +168,43 @@ sessions:
       name: Josh Tauberer
       website: https://razor.occams.info/
     materials:
+    - name: "14 Principles of Open Government Data, Tauberer"
+      url: https://opengovdata.io/2014/principles/
+      discussion:
+      - Read through the principles. What, if anything, is missing?
+      - Which are the most important principles to you personally? Which are least important? Why?
+
+    - name: "Victor Li, Who owns the law? Technology reignites the war over just how public documents should be, ABA Journal (June 1, 2014)"
+      url: http://www.abajournal.com/magazine/article/who_owns_the_law_technology_reignites_the_war_over_just_how_public_document
+      discussion:
+      - This article summarizes one of the more public fights over government data ownership. Why is there any debate about whether "laws" are in the public domain?
+      - What would the consequences be if standards bodies could not claim copyright on their works?
+      - How should government agencies think about authoritative sources? What are the consequences of deciding that a government work is "official?"
+
+    - name: 'Mitch Stolz, Taking the Fight to the Appeals Court: Don’t Lock Laws Behind Paywalls, EFF (Aug. 29, 2017)'
+      url: https://www.eff.org/deeplinks/2017/08/taking-fight-appeals-court-dont-lock-laws-behind-paywalls
+      discussion:
+      - This is live litigation in the D.C. Circuit. What's the gist of the lawsuit?
+      - What are the practical implications of the litigation?
+
+    - name: 'Timothy B. Lee, The case against PACER: tearing down the courts’ paywall, Ars Technica (April 8, 2009)'
+      url: https://arstechnica.com/tech-policy/2009/04/case-against-pacer/
+      discussion:
+      - Court records aren't subject to copyright. So why aren't they widely available for free? Here's a [hint](https://free.law/2016/10/10/the-cost-of-pacer-data-around-one-billion-dollars/)
+      - There's pending litigation involving PACER](https://www.courtlistener.com/docket/4214664/national-veterans-legal-services-program-v-united-states/), what's the gist of the litigation? How do you think it'll turn out?
+
+    - name: 'M-13-13, Memorandum on Open Data Policy—Managing Information as an Asset ("the Open Data Memorandum" (May 9, 2013)'
+      url: https://web.archive.org/web/https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf
+      discussion:
+      - Note the URL of this website. It was updated on January 29, 2017, because the canonical URL [returned this result](https://web.archive.org/web/20170129013754/https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf). How does that square with Tauberer's Open Data principles?
+      - What is the gist of the policy? What does it require agencies to *do*?
+
+    - name: "Alex Howard, OPEN Government Data Act poised to pass Congress as part of NDAA, Sunlight Foundation (Sep. 19, 2017)"
+      url: https://sunlightfoundation.com/2017/09/19/open-government-data-act-poised-to-pass-congress-as-part-of-ndaa/
+      discussion:
+      - Recall the discussion in the first class about framing open government data policy. How does the framing of the OPEN Government Data Act square with earlier rhetoric?
+      - Why bother with legislation at all? See the [Committee Report](https://www.congress.gov/115/crpt/srpt134/CRPT-115srpt134.pdf). What is the Senate's position on the implementation of open government data by the Obama administration?
+      - The Act did not pass as part of the NDAA and has been revised and reinserted in the Foundations for Evidence-Based Policymaking Act of 2017. What is the [House's perspective](https://www.congress.gov/115/crpt/hrpt411/CRPT-115hrpt411.pdf) on the Open by Default standard? What might be going on here?
 
   - session: "5"
     date: 2018-03-14
