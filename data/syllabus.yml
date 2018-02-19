@@ -215,6 +215,23 @@ sessions:
       name: TBD
       website:
     materials:
+    - name: "Paul Ohm, Broken Promises of Privacy: Responding to the Surprising Failure of Anonymization, 57 UCLA L. Rev. 1701 (2010)"
+      url: http://www.uclalawreview.org/pdf/57-6-3.pdf
+      discussion:
+    - name: "Latanya Sweeney, Simple Demographics Often Identify People Uniquely, Carnegie Mellon University (2000)"
+      url: https://dataprivacylab.org/projects/identifiability/paper1.pdf
+    - name: Open Data Privacy Playbook (Feb. 27, 2017)
+      url: https://dash.harvard.edu/bitstream/handle/1/30340010/OpenDataPrivacy.pdf
+    - name: Elizabeth Joh, Five Lessons From the Rise of Bodycams, Slate (Nov. 28, 2016)
+      url: http://www.slate.com/articles/technology/future_tense/2016/11/how_not_to_respond_to_the_next_police_surveillance_technology.html
+    - name: Ellen Nakashima, Secrecy around police surveillance equipment proves a case's undoing, Wash. Post (Feb. 22, 2015)
+      url: https://www.washingtonpost.com/world/national-security/secrecy-around-police-surveillance-equipment-proves-a-cases-undoing/2015/02/22/ce72308a-b7ac-11e4-aa05-1ce812b3fdd2_story.html
+    - name: EFF, Street-Level Surveillance, Automated License Plate Readers
+      url: https://www.eff.org/issues/street-level-surveillance
+    - name: Emily Shaw, The local projects that are making police complaint data open and accessible, Sunlight Foundation (Oct. 25, 2016)
+      url: https://sunlightfoundation.com/2016/10/25/the-local-projects-that-are-making-police-complaint-data-open-and-accessible/
+    - name: Emily Shaw, Using data to track police response to sexual assault, Sunlight Foundation (Aug. 31, 2016)
+      url: https://sunlightfoundation.com/2016/08/31/using-data-to-track-police-response-to-sexual-assault/
 
   - session: "6"
     date: 2018-03-28
