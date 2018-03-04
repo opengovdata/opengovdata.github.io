@@ -218,20 +218,51 @@ sessions:
     - name: "Paul Ohm, Broken Promises of Privacy: Responding to the Surprising Failure of Anonymization, 57 UCLA L. Rev. 1701 (2010)"
       url: http://www.uclalawreview.org/pdf/57-6-3.pdf
       discussion:
+      - This article argues that "[d]ata  can  be  either  useful  or  perfectly anonymous but never both." Why is that the case? Why has anonymity been an important value for data management?
+      - How does reidentification work? Why is reidentification a challenge to implementation of traditional privacy law frameworks? What are some examples of how reidentification has defeated privacy goals?
+      - What options do policymakers have in terms of addressing the core challenges created by reidentification?
+      - What does the article suggest should be the "test" for data handling?
     - name: "Latanya Sweeney, Simple Demographics Often Identify People Uniquely, Carnegie Mellon University (2000)"
       url: https://dataprivacylab.org/projects/identifiability/paper1.pdf
+      discussion:
+      - Did the findings in the paper surprise you?
+      - This article is almost 20 years old and was published seven years before the release of the iPhone. Do you suspect that the analysis would lead to the same results today?
+      - What are some of the techniques described in the article? How complicated do they seem?
     - name: Open Data Privacy Playbook (Feb. 27, 2017)
       url: https://dash.harvard.edu/bitstream/handle/1/30340010/OpenDataPrivacy.pdf
+      discussion:
+      - Similar to Ohm's article, the document outlines the tension between utility and risk. What are the authors' conclusions about the effectiveness of "PII" as a privacy tool?
+      - In lieu of PII, what does the document recommend with regard to data publication?
+      - Reflect on the framework offered by Yu & Robinson's "New Ambiguity of Open Government." To what extent does that framework interact with the document's recommendations? What is a responsible data steward to do?
     - name: Elizabeth Joh, Five Lessons From the Rise of Bodycams, Slate (Nov. 28, 2016)
       url: http://www.slate.com/articles/technology/future_tense/2016/11/how_not_to_respond_to_the_next_police_surveillance_technology.html
+      discussion:
+      - What are the lessons learned from the use of body cameras by law-enforcement officials?
+      - The author argues that "without regulations or guidelines, body cameras are becoming all-purpose surveillance tools." What sort of regulations or policies are discussed by the author? What else would you add to the list, given what you know about open government data thus far?
     - name: Ellen Nakashima, Secrecy around police surveillance equipment proves a case's undoing, Wash. Post (Feb. 22, 2015)
       url: https://www.washingtonpost.com/world/national-security/secrecy-around-police-surveillance-equipment-proves-a-cases-undoing/2015/02/22/ce72308a-b7ac-11e4-aa05-1ce812b3fdd2_story.html
+      discussion:
+      - What's a Stingray? How widely have they been used?
+      - What has been the reaction of the courts?
+      - What is Accurint? Here's a published [price list](https://www.dms.myflorida.com/content/download/114287/632164/file/OnlineInvestigations%20Pricing%202-19-15.pdf) in Florida. Take a look at what is available for purchase. Anything surprising?
     - name: EFF, Street-Level Surveillance, Automated License Plate Readers
-      url: https://www.eff.org/issues/street-level-surveillance
+      url: https://www.eff.org/pages/automated-license-plate-readers-alpr
+      discussion:
+      - What's an ALPR? How can they be used?
+      - What's Vigilant Technologies? How are ALPR databases used?
+      - What are the threats posed by ALPR? How have these technologies been abused?
     - name: Emily Shaw, The local projects that are making police complaint data open and accessible, Sunlight Foundation (Oct. 25, 2016)
       url: https://sunlightfoundation.com/2016/10/25/the-local-projects-that-are-making-police-complaint-data-open-and-accessible/
+      discussion:
+      - The article points to several examples of increased access to police complaint data. What is *different* between the different efforts across cities?
+      - What is the role of civil society in reviewing and monitoring police complaint data?
+      - What are some of the findings from the existing efforts to release police-complaint data?
     - name: Emily Shaw, Using data to track police response to sexual assault, Sunlight Foundation (Aug. 31, 2016)
       url: https://sunlightfoundation.com/2016/08/31/using-data-to-track-police-response-to-sexual-assault/
+      discussion:
+      - As the author notes, "most police information about sexual assault cases is protected." How does she get the data described in the article? How do these techniques inform how other open-government data inquiries can be carried out? 
+      - As you read through this article, consider how public data about law-enforcement techniques provides accountability for law-enforcement. To what extent does data *about* the government's actions help promote better government? Again, what is the role of civil society in this?
+      - Over the semester, we've discussed the incentives for public officials related to open government data. What are the incentives for law-enforcement agencies?
 
   - session: "6"
     date: 2018-03-28
