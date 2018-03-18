@@ -260,7 +260,7 @@ sessions:
     - name: Emily Shaw, Using data to track police response to sexual assault, Sunlight Foundation (Aug. 31, 2016)
       url: https://sunlightfoundation.com/2016/08/31/using-data-to-track-police-response-to-sexual-assault/
       discussion:
-      - As the author notes, "most police information about sexual assault cases is protected." How does she get the data described in the article? How do these techniques inform how other open-government data inquiries can be carried out? 
+      - As the author notes, "most police information about sexual assault cases is protected." How does she get the data described in the article? How do these techniques inform how other open-government data inquiries can be carried out?
       - As you read through this article, consider how public data about law-enforcement techniques provides accountability for law-enforcement. To what extent does data *about* the government's actions help promote better government? Again, what is the role of civil society in this?
       - Over the semester, we've discussed the incentives for public officials related to open government data. What are the incentives for law-enforcement agencies?
 
@@ -269,6 +269,22 @@ sessions:
     topic: "Efficacy of Open Government Data"
     description: "This session will explore whether open government data policies are living up to their promise and ask what should be expected from an open government data policy? What are the successes and failures for open government data? How are cities and states using open government data? What's likely to come next for open government data?"
     guest_lecturer:
-      name: TBD
+      name: Rebecca Williams
       website:
     materials:
+    - name: "Vanessa Williamson and Norman Eisen, The impact of open government: Assessing the evidence, Center for Effective Public Management (Dec. 2016)"
+      url: https://www.brookings.edu/wp-content/uploads/2016/12/gs_20161208_opengovernment_report.pdf
+      discussion:
+      -
+    - name: "Tom Lee, Open Data: Better Politics, Winning Politics... But Still Politics, Crooked Timber (July 6, 2012)"
+      url: http://crookedtimber.org/2012/07/06/open-data-better-politics-winning-politics-but-still-politics/
+      discussion:
+      -
+    - name: "Lauren Kirchner, New York City Moves to Create Accountability for Algorithms, ProPublica (Dec. 18, 2017)"
+      url: https://www.propublica.org/article/new-york-city-moves-to-create-accountability-for-algorithms
+      discussion:
+      -
+    - name: "Robert Brauneis and Ellen Goodman, Algorithmic Transparency for the Smart City, Yale J. L. & Tech. (2017)"
+      url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3012499
+      discussion: 
+      -
