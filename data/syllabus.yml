@@ -275,16 +275,27 @@ sessions:
     - name: "Vanessa Williamson and Norman Eisen, The impact of open government: Assessing the evidence, Center for Effective Public Management (Dec. 2016)"
       url: https://www.brookings.edu/wp-content/uploads/2016/12/gs_20161208_opengovernment_report.pdf
       discussion:
-      -
+      - The authors describe a very specific definition of what constitutes an effective open government initiative. What are the criteria? Consider Yu & Robinson's framework. To what extent have the authors assumed this framework in their analysis? What tradeoffs does this imply? To what extent are the frameworks different?
+      - How persuasive do you find the concept of the principal-agent model? How does that model correspond to the "Invisible Hand" concept?
+      - Consider the 14 Principles of Open Government Data. To what extent is the framework advanced by authors similar or different from the 14 Principles?
     - name: "Tom Lee, Open Data: Better Politics, Winning Politics... But Still Politics, Crooked Timber (July 6, 2012)"
       url: http://crookedtimber.org/2012/07/06/open-data-better-politics-winning-politics-but-still-politics/
       discussion:
-      -
+      - The post argues that open data is "pre-political", or in the alternative, that it's "good politics." Do you agree? Why?
+      - The article describes several objections to open data policies. In this class, we've discussed other barriers to open government data. How do you see those barriers playing out over time?
+      - What does the post argue about what the right levels of expectation ought to be for open data policies?
+      - The post contends that the open-data movement's long-term outcome will depend on politics. True?
     - name: "Lauren Kirchner, New York City Moves to Create Accountability for Algorithms, ProPublica (Dec. 18, 2017)"
       url: https://www.propublica.org/article/new-york-city-moves-to-create-accountability-for-algorithms
       discussion:
-      -
+      - As the article notes, algorithmic transparency legislation is "cutting edge." What does the bill in question actually *do*?
+      - What are the origin stories involved in the legislation? What are the politics? To what extent are the politics in play similar or different from other open-government-data policies?
+      - One of the findings cited was that the algorithm that prompted the legislation had "a margin of error of 30 percent for one key input of the program." To what extent is the desire for algorithmic transparency connected to the accuracy of the algorithm? What are the implications of that relationship? What lessons should we draw from Paul Ohm's article as it relates to this relationship?
     - name: "Robert Brauneis and Ellen Goodman, Algorithmic Transparency for the Smart City, Yale J. L. & Tech. (2017)"
       url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3012499
-      discussion: 
-      -
+      discussion:
+      - What is the authors' core critique around the need for algorithmic transparency?
+      - The authors identify 3 impediments to algorithmic transparency. What are they? To what extent do they parallel other open-government challenges? What does that imply about how these impediments might be addressed?
+      - What politics are embedded in use of algorithms? To what extent are these politics new or different?
+      - What were the authors' experiences in using open-records laws to obtain information about algorithmic transparency? Why does this matter? What are the authors' solutions to these experiences?
+      - What do the authors suggest should be documented with regard to algorithms?
